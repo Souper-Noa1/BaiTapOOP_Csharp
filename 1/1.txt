@@ -1,1 +1,5 @@
-Tạo một hệ thống quản lý nhân viên đơn giản. Có một lớp cơ sở Employee và hai lớp con Manager và Developer. Mỗi nhân viên có id, name, year, salary. Manager và Developer có số giờ làm thêm. Tính tổng thu nhập cho mỗi loại nhân viên và in Age = 2024 - year. Nếu nhân viên có số giờ làm thêm lớn hơn 100 giờ thì sẽ được lên làm Manager.
+Tạo một hệ thống quản lý nhân viên đơn giản. 
+Có một lớp cơ sở Employee và hai lớp con Manager và Developer. 
+Mỗi nhân viên có id, name, year, salary. Manager và Developer có số giờ làm thêm. 
+Tính tổng thu nhập cho mỗi loại nhân viên và in Age = 2024 - year. 
+Nếu nhân viên có số giờ làm thêm lớn hơn 100 giờ thì sẽ được lên làm Manager.
